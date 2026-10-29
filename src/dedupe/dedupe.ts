@@ -3,7 +3,7 @@ import type { Embedder } from "../ports/embedder";
 import type { VectorStore } from "../ports/vector-store";
 import { Clusters } from "./cluster";
 import { exactGroups } from "./exact";
-import { fuzzyGroups, _setEmbedder } from "./fuzzy";
+import { fuzzyGroups } from "./fuzzy";
 
 export interface DedupeCounts {
   clusters: number;
@@ -14,10 +14,9 @@ export interface DedupeCounts {
  *  vector-similarity fuzzy matching. Each cluster keeps one canonical row —
  *  the record with the richest description — and demotes the rest. */
 export async function runDedupe(db: Database.Database, embedder: Embedder, vec: VectorStore): Promise<DedupeCounts> {
-  _setEmbedder(embedder);
   const clusters = new Clusters();
   exactGroups(db, clusters);
-  await fuzzyGroups(db, vec, clusters);
+  await fuzzyGroups(db, embedder, vec, clusters);
 
   const setCluster = db.prepare(`UPDATE products SET cluster_id = ?, canonical = ? WHERE id = ?`);
   const existing = db.prepare(`SELECT COUNT(*) AS n FROM products WHERE cluster_id IS NOT NULL`).get() as { n: number };

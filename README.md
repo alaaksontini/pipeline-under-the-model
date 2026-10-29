@@ -9,7 +9,7 @@ No API keys. No external services. `npm install && npm run demo` — done.
 ```bash
 npm install
 npm run demo                              # full pipeline + one agent Q&A (~5s)
-npm run ask -- "standing desks under €300" -- --against-raw   # watch it fail
+npm run ask -- "standing desks under €300" --against-raw   # watch it fail
 ```
 
 ## What you're looking at

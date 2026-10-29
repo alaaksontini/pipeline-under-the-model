@@ -8,7 +8,7 @@ export interface SourceRecord {
 /** supplier-a: flat CSV. No csv library — the feed has no quoted commas,
  *  which is itself part of the demo's "messy but parseable" story. */
 export function* readCsvSource(path: string): Generator<SourceRecord> {
-  const lines = readFileSync(path, "utf8").split("\n").filter((l) => l.trim());
+  const lines = readFileSync(path, "utf8").split(/\r?\n/).filter((l) => l.trim());
   const header = lines[0].split(",");
   for (let i = 1; i < lines.length; i++) {
     const cells = lines[i].split(",");

@@ -7,9 +7,6 @@ import type { Clusters } from "./cluster";
 const JACCARD_MIN = 0.6;
 const K = 12;
 
-let embedderRef: Embedder | null = null;
-export function _setEmbedder(e: Embedder) { embedderRef = e; }
-
 /** Model numbers in a name ("140cm", "3") — the same product line at a
  *  different size is NOT a duplicate. */
 function numbersIn(name: string): string {
@@ -26,15 +23,14 @@ function jaccard(a: Set<string>, b: Set<string>): number {
  *  RECALL (cheap ANN candidates), deterministic rules give PRECISION
  *  (same brand + category + number signature + token overlap). The model's
  *  job is to bring candidates near the surface; code decides. */
-export async function fuzzyGroups(db: Database.Database, vec: VectorStore, clusters: Clusters): Promise<void> {
-  if (!embedderRef) throw new Error("fuzzy dedupe needs an Embedder");
+export async function fuzzyGroups(db: Database.Database, embedder: Embedder, vec: VectorStore, clusters: Clusters): Promise<void> {
   const products = db
     .prepare(`SELECT id, brand, name, category, dedupe_key FROM products`)
     .all() as Array<{ id: string; brand: string; name: string; category: string; dedupe_key: string }>;
   const byId = new Map(products.map((p) => [p.id, p]));
 
   for (const p of products) {
-    const query = await embedderRef.embed(`${p.brand} ${p.name}`);
+    const query = await embedder.embed(`${p.brand} ${p.name}`);
     const pTokens = new Set(tokenize(`${p.brand} ${p.name}`));
     for (const hit of await vec.knn(query, K)) {
       if (hit.id === p.id) continue;

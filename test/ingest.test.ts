@@ -1,4 +1,8 @@
+import { mkdtempSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 import { describe, expect, it } from "vitest";
+import { readCsvSource } from "../src/ingest/sources/csv-source";
 import { runIngest } from "../src/ingest/ingest";
 import { RAW_DIR, stack } from "./fixtures/helpers";
 
@@ -16,5 +20,11 @@ describe("ingest", () => {
     const second = runIngest(db, RAW_DIR);
     expect(second.ingested).toBe(0);
     expect(second.skipped).toBe(120);
+  });
+
+  it("reads CRLF CSV without carriage returns leaking into keys or values", () => {
+    const path = join(mkdtempSync(join(tmpdir(), "csv-")), "x.csv");
+    writeFileSync(path, "a,b\r\n1,2\r\n");
+    expect([...readCsvSource(path)]).toEqual([{ sourceRecordId: "a-1", payload: { a: "1", b: "2" } }]);
   });
 });
