@@ -115,7 +115,7 @@ switch (cmd) {
   npm run ingest               stage 1 only
   npm run validate             normalize + validate + dedupe
   npm run report               validation report from quarantine table
-  npm run ask -- "question"    orchestrated Q&A [-- --against-raw] [-- --fresh]
+  npm run ask -- "question"    orchestrated Q&A [--against-raw] [--fresh]
 
 flags: --db <path>  --raw <dir>  --against-raw  --fresh`);
 }
