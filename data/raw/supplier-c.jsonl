@@ -1,0 +1,49 @@
+{"id":"c-200","name":"Oskar ProArm","price_eur":387.51,"qty":30,"vendor":"Oskar","cat":"monitor arm","desc":"Single monitor arm, gas spring, VESA 75/100."}
+{"id":"c-201","title":"Nordal LumiTask","cost":"EUR 501.44","quantity":2,"brand":"Nordal","category_text":"desk lamp","notes":"LED desk lamp, dimmable, 3 color temperatures."}
+{"id":"c-202","name":"Nordal OpenShelv 2","price":671.36,"stock":4,"vendor":"Nordal","category":"bookshelf","notes":"Open bookshelf, 3 tiers, powder-coated steel frame."}
+{"id":"c-203","name":"Vermona ArchivPro 5","price_eur":710.74,"qty":36,"vendor":"Vermona","cat":"filing cabinet","desc":"Under-desk pedestal, 160 drawers, anti-tilt mechanism."}
+{"id":"c-204","title":"Deltree ErgoLift 160cm","cost":"EUR 412.84","quantity":31,"brand":"Deltree","category_text":"standing desk","notes":"Electric sit-stand desk 120cm, memory controller, anti-collision."}
+{"id":"c-205","name":"Nordal ComfyTask","price":486.33,"stock":9,"vendor":"Nordal","category":"desk chair","notes":"Ergonomic task chair, lumbar support, adjustable arms."}
+{"id":"c-206","name":"Kestra ArmReach","price_eur":458.3,"qty":34,"vendor":"Kestra","cat":"monitor arm","desc":"Desk-mounted monitor arm, cable management, 2-9kg."}
+{"id":"c-207","title":"Deltree GlowBar","cost":"EUR 700.92","quantity":5,"brand":"Deltree","category_text":"desk lamp","notes":"LED desk lamp, dimmable, 3 color temperatures."}
+{"id":"c-208","name":"Kestra BookCase 3","price":391.38,"stock":3,"vendor":"Kestra","category":"bookshelf","notes":"Open bookshelf, 4 tiers, powder-coated steel frame."}
+{"id":"c-209","name":"Kestra DrawerLine 4","price_eur":189.74,"qty":32,"vendor":"Kestra","cat":"filing cabinet","desc":"Under-desk pedestal, 140 drawers, anti-tilt mechanism."}
+{"id":"c-210","title":"Deltree UpRight 160cm","cost":"EUR 384.03","quantity":14,"brand":"Deltree","category_text":"standing desk","notes":"Height-adjustable standing desk, 3cm top, dual motor."}
+{"id":"c-211","name":"Oskar ViewLift","price":464.88,"stock":27,"vendor":"Oskar","category":"monitor arm","notes":"Desk-mounted monitor arm, cable management, 2-9kg."}
+{"id":"c-212","name":"Vermona BrightArc","price_eur":304.48,"qty":25,"vendor":"Vermona","cat":"desk lamp","desc":"LED desk lamp, dimmable, 3 color temperatures."}
+{"id":"c-213","title":"Oskar TierRack 4","cost":"EUR 431.03","quantity":10,"brand":"Oskar","category_text":"bookshelf","notes":"Open bookshelf, 160 tiers, powder-coated steel frame."}
+{"id":"c-214","name":"Oskar Cabinetix 3","price":188.49,"stock":18,"vendor":"Oskar","category":"filing cabinet","notes":"Under-desk pedestal, 160 drawers, anti-tilt mechanism."}
+{"id":"c-215","name":"Kestra 2 ShelfMax","price_eur":402.04,"qty":11,"vendor":"Kestra","cat":"bookshelf","desc":"Freestanding shelving unit, 4 levels, oak effect."}
+{"id":"c-216","title":"Vermona ScreenHold","cost":"EUR 503.39","quantity":4,"brand":"Vermona","category_text":"monitor arm","notes":"Desk-mounted monitor arm, cable management, 2-9kg."}
+{"id":"c-217","name":"FocusLite Deltree","price":822.58,"stock":20,"vendor":"Deltree","category":"desk lamp","notes":"Architect desk lamp, clamp mount, flicker-free."}
+{"id":"c-218","name":"Oskar 2 StackLine","price_eur":876.4,"qty":9,"vendor":"Oskar","cat":"bookshelf","desc":"Open bookshelf, 160 tiers, powder-coated steel frame."}
+{"id":"c-219","title":"Deltree 160cm ErgoLift","cost":"EUR 412.84","quantity":31,"brand":"Deltree","category_text":"standing desk","notes":"Electric sit-stand desk 120cm, memory controller, anti-collision."}
+{"id":"c-220","name":"ComfyTask Nordal","price":486.33,"stock":9,"vendor":"Nordal","category":"desk chair","notes":"Ergonomic task chair, lumbar support, adjustable arms."}
+{"id":"c-221","name":"Kestra ArmReach","price_eur":458.3,"qty":34,"vendor":"Kestra","cat":"monitor arm","desc":"Desk-mounted monitor arm, cable management, 2-9kg."}
+{"id":"c-222","title":"GlowBar Deltree","cost":"EUR 700.92","quantity":5,"brand":"Deltree","category_text":"desk lamp","notes":"LED desk lamp, dimmable, 3 color temperatures."}
+{"id":"c-223","name":"Oskar ProArm","price_eur":387.51,"qty":30,"vendor":"Oskar","cat":"monitor arm","desc":"Single monitor arm, gas spring, VESA 75/100."}
+{"id":"c-224","name":"Nordal LumiTask","price_eur":501.44,"qty":2,"vendor":"Nordal","cat":"desk lamp","desc":"LED desk lamp, dimmable, 3 color temperatures."}
+{"id":"c-225","name":"Nordal OpenShelv 2","price_eur":671.36,"qty":4,"vendor":"Nordal","cat":"bookshelf","desc":"Open bookshelf, 3 tiers, powder-coated steel frame."}
+{"id":"c-226","name":"Vermona ArchivPro 5","price_eur":710.74,"qty":36,"vendor":"Vermona","cat":"filing cabinet","desc":"Under-desk pedestal, 160 drawers, anti-tilt mechanism."}
+{"id":"c-227","name":"Deltree ErgoLift 160cm","price_eur":412.84,"qty":31,"vendor":"Deltree","cat":"standing desk","desc":"Electric sit-stand desk 120cm, memory controller, anti-collision."}
+{"id":"c-228","name":null,"price_eur":120,"qty":4,"vendor":"Nordal","cat":"desk lamp"}
+{"id":"c-229","price_eur":340,"qty":2,"vendor":"Kestra","cat":"standing desk"}
+{"id":"c-230","name":"","price_eur":88,"qty":9,"vendor":"Vermona","cat":"bookshelf"}
+{"id":"c-231","name":"   ","price":55,"stock":3,"vendor":"Deltree","category":"desk lamp"}
+{"id":"c-232","title":"Oskar DockLamp","price_eur":"call us","qty":6,"vendor":"Oskar","cat":"desk lamp"}
+{"id":"c-233","name":"Kestra TradeChair","cost":"call us","quantity":11,"brand":"Kestra","category_text":"desk chair"}
+{"id":"c-234","name":"Vermona BulkShelf","price_eur":"TBD","qty":2,"vendor":"Vermona","cat":"bookshelf"}
+{"id":"c-235","name":"Deltree QuoteDesk","price":"TBD","stock":1,"vendor":"Deltree","category":"standing desk"}
+{"id":"c-236","name":"Nordal StockArm","price_eur":65,"qty":"many","vendor":"Nordal","cat":"monitor arm"}
+{"id":"c-237","name":"Kestra PlentyChair","price_eur":210,"qty":"plenty","vendor":"Kestra","cat":"desk chair"}
+{"id":"c-238","name":"Oskar NegDesk","price_eur":-199,"qty":5,"vendor":"Oskar","cat":"standing desk"}
+{"id":"c-239","name":"Vermona MinusLamp","price":-40,"stock":8,"vendor":"Vermona","category":"desk lamp"}
+{"id":"c-240","name":"Deltree MegaDesk 9000","price_eur":99999999,"qty":1,"vendor":"Deltree","cat":"standing desk"}
+{"id":"c-241","name":"Nordal NoStock","price_eur":130,"vendor":"Nordal","cat":"desk lamp"}
+{"id":"c-242","name":"Kestra VoidPrice","qty":4,"vendor":"Kestra","cat":"desk chair"}
+{"id":"c-243","name":"Oskar GhostShelf","qty":2,"vendor":"Oskar","cat":"bookshelf"}
+{"id":"c-244","name":"Vermona MysteryArm","price_eur":75,"qty":3,"vendor":"Vermona"}
+{"id":"c-245","name":42,"price_eur":99,"qty":7,"vendor":"Deltree","cat":"desk lamp"}
+{"id":"c-246","name":"Nordal OddStock","price_eur":145,"qty":"12ish","vendor":"Nordal","cat":"desk lamp"}
+{"id":"c-247","name":"Kestra WeirdCat","price_eur":300,"qty":2,"vendor":"Kestra","cat":"banana"}
+{"id":"c-248","name":"Oskar BlankBrand","price_eur":150,"qty":6,"cat":"bookshelf"}

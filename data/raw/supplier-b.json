@@ -1,0 +1,542 @@
+[
+  {
+    "id": "b-1000",
+    "product": {
+      "title": "Deltree ArmReach",
+      "maker": "Deltree"
+    },
+    "pricing": {
+      "amount": "€383,64",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Single monitor arm, gas spring, VESA 75/100. <b>Deltree</b> quality.</p>",
+    "inventory": {
+      "count": 37
+    },
+    "lead_time_days": 7,
+    "_internal_sku": "SKU-71530"
+  },
+  {
+    "id": "b-1001",
+    "product": {
+      "title": "Kestra GlowBar",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": "€520,28",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>LED desk lamp, dimmable, 3 color temperatures. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 15
+    },
+    "lead_time_days": 14,
+    "_internal_sku": "SKU-41951"
+  },
+  {
+    "id": "b-1002",
+    "product": {
+      "title": "Vermona BookCase 5",
+      "maker": "Vermona"
+    },
+    "pricing": {
+      "amount": "€868,36",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Open bookshelf, 140 tiers, powder-coated steel frame. <b>Vermona</b> quality.</p>",
+    "inventory": {
+      "count": 30
+    },
+    "lead_time_days": 11,
+    "_internal_sku": "SKU-52396"
+  },
+  {
+    "id": "b-1003",
+    "product": {
+      "title": "Deltree DrawerLine 4",
+      "maker": "Deltree"
+    },
+    "pricing": {
+      "amount": "€64,73",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Lockable filing cabinet, 160 drawers, ball-bearing slides. <b>Deltree</b> quality.</p>",
+    "inventory": {
+      "count": 31
+    },
+    "lead_time_days": 14,
+    "_internal_sku": "SKU-45950"
+  },
+  {
+    "id": "b-1004",
+    "product": {
+      "title": "Kestra UpRight 140cm",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": 13002,
+      "currency": "EUR",
+      "unit": "cents"
+    },
+    "desc_html": "<p>Height-adjustable standing desk, 160cm top, dual motor. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 2
+    },
+    "lead_time_days": 13,
+    "_internal_sku": "SKU-30114"
+  },
+  {
+    "id": "b-1005",
+    "product": {
+      "title": "Nordal ErgoSit",
+      "maker": "Nordal"
+    },
+    "pricing": {
+      "amount": "€279,45",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Mesh-back desk chair, synchronous tilt, seat depth adjustment. <b>Nordal</b> quality.</p>",
+    "inventory": {
+      "count": 26
+    },
+    "lead_time_days": 4,
+    "_internal_sku": "SKU-28658"
+  },
+  {
+    "id": "b-1006",
+    "product": {
+      "title": "Kestra ViewLift",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": null,
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Desk-mounted monitor arm, cable management, 2-9kg. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 3
+    },
+    "lead_time_days": 12,
+    "_internal_sku": "SKU-96747"
+  },
+  {
+    "id": "b-1007",
+    "product": {
+      "title": "Oskar BrightArc",
+      "maker": "Oskar"
+    },
+    "pricing": {
+      "amount": "€705,83",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>LED desk lamp, dimmable, 3 color temperatures. <b>Oskar</b> quality.</p>",
+    "inventory": {
+      "count": 19
+    },
+    "lead_time_days": 13,
+    "_internal_sku": "SKU-23401"
+  },
+  {
+    "id": "b-1008",
+    "product": {
+      "title": "Vermona TierRack 3",
+      "maker": "Vermona"
+    },
+    "pricing": {
+      "amount": "€756,80",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Freestanding shelving unit, 140 levels, oak effect. <b>Vermona</b> quality.</p>",
+    "inventory": {
+      "count": 40
+    },
+    "lead_time_days": 14,
+    "_internal_sku": "SKU-39427"
+  },
+  {
+    "id": "b-1009",
+    "product": {
+      "title": "Nordal Cabinetix 4",
+      "maker": "Nordal"
+    },
+    "pricing": {
+      "amount": null,
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Under-desk pedestal, 4 drawers, anti-tilt mechanism. <b>Nordal</b> quality.</p>",
+    "inventory": {
+      "count": 22
+    },
+    "lead_time_days": 12,
+    "_internal_sku": "SKU-36436"
+  },
+  {
+    "id": "b-1010",
+    "product": {
+      "title": "Oskar LiftDesk 160cm",
+      "maker": "Oskar"
+    },
+    "pricing": {
+      "amount": "€463,53",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Electric sit-stand desk 120cm, memory controller, anti-collision. <b>Oskar</b> quality.</p>",
+    "inventory": {
+      "count": 11
+    },
+    "lead_time_days": 13,
+    "_internal_sku": "SKU-31489"
+  },
+  {
+    "id": "b-1011",
+    "product": {
+      "title": "Deltree PostureFlex",
+      "maker": "Deltree"
+    },
+    "pricing": {
+      "amount": "€817,41",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Ergonomic task chair, lumbar support, adjustable arms. <b>Deltree</b> quality.</p>",
+    "inventory": {
+      "count": 23
+    },
+    "lead_time_days": 14,
+    "_internal_sku": "SKU-54759"
+  },
+  {
+    "id": "b-1012",
+    "product": {
+      "title": "Nordal FlexMount",
+      "maker": "Nordal"
+    },
+    "pricing": {
+      "amount": "€354,20",
+      "currency": "EUR",
+      "unit": "dollars"
+    },
+    "desc_html": "<p>Single monitor arm, gas spring, VESA 75/100. <b>Nordal</b> quality.</p>",
+    "inventory": {
+      "count": 30
+    },
+    "lead_time_days": 2,
+    "_internal_sku": "SKU-96361"
+  },
+  {
+    "id": "b-1013",
+    "product": {
+      "title": "Vermona SoftBeam",
+      "maker": "Vermona"
+    },
+    "pricing": {
+      "amount": "€611,80",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>LED desk lamp, dimmable, 3 color temperatures. <b>Vermona</b> quality.</p>",
+    "inventory": {
+      "count": 6
+    },
+    "lead_time_days": 8,
+    "_internal_sku": "SKU-98574"
+  },
+  {
+    "id": "b-1014",
+    "product": {
+      "title": "Kestra ShelfMax 2",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": "€402,04",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Freestanding shelving unit, 4 levels, oak effect. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 11
+    },
+    "lead_time_days": 5,
+    "_internal_sku": "SKU-27096"
+  },
+  {
+    "id": "b-1015",
+    "product": {
+      "title": "Vermona ScreenHold",
+      "maker": "Vermona"
+    },
+    "pricing": {
+      "amount": "€503,39",
+      "currency": "EUR",
+      "unit": "dollars"
+    },
+    "desc_html": "<p>Desk-mounted monitor arm, cable management, 2-9kg. <b>Vermona</b> quality.</p>",
+    "inventory": {
+      "count": 4
+    },
+    "lead_time_days": 9,
+    "_internal_sku": "SKU-69850"
+  },
+  {
+    "id": "b-1016",
+    "product": {
+      "title": "Deltree FocusLite",
+      "maker": "Deltree"
+    },
+    "pricing": {
+      "amount": "€822,58",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Architect desk lamp, clamp mount, flicker-free. <b>Deltree</b> quality.</p>",
+    "inventory": {
+      "count": 20
+    },
+    "lead_time_days": 14,
+    "_internal_sku": "SKU-13064"
+  },
+  {
+    "id": "b-1017",
+    "product": {
+      "title": "Oskar StackLine 2",
+      "maker": "Oskar"
+    },
+    "pricing": {
+      "amount": "€876,40",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Open bookshelf, 160 tiers, powder-coated steel frame. <b>Oskar</b> quality.</p>",
+    "inventory": {
+      "count": 9
+    },
+    "lead_time_days": 8,
+    "_internal_sku": "SKU-75614"
+  },
+  {
+    "id": "b-1018",
+    "product": {
+      "title": "",
+      "maker": "Vermona"
+    },
+    "pricing": {
+      "amount": "€255,25",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Under-desk pedestal, 3 drawers, anti-tilt mechanism. <b>Vermona</b> quality.</p>",
+    "inventory": {
+      "count": 10
+    },
+    "lead_time_days": 12,
+    "_internal_sku": "SKU-24448"
+  },
+  {
+    "id": "b-1019",
+    "product": {
+      "title": "Oskar StandPro 180cm",
+      "maker": "Oskar"
+    },
+    "pricing": {
+      "amount": "€276,96",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Electric sit-stand desk 3cm, memory controller, anti-collision. <b>Oskar</b> quality.</p>",
+    "inventory": {
+      "count": 11
+    },
+    "lead_time_days": 11,
+    "_internal_sku": "SKU-29635"
+  },
+  {
+    "id": "b-1020",
+    "product": {
+      "title": "Oskar ProArm",
+      "maker": "Oskar"
+    },
+    "pricing": {
+      "amount": "€387,51",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Single monitor arm, gas spring, VESA 75/100. <b>Oskar</b> quality.</p>",
+    "inventory": {
+      "count": 30
+    },
+    "lead_time_days": 2,
+    "_internal_sku": "SKU-89499"
+  },
+  {
+    "id": "b-1021",
+    "product": {
+      "title": "Nordal LumiTask",
+      "maker": "Nordal"
+    },
+    "pricing": {
+      "amount": "-50,00",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>LED desk lamp, dimmable, 3 color temperatures. <b>Nordal</b> quality.</p>",
+    "inventory": {
+      "count": 2
+    },
+    "lead_time_days": 9,
+    "_internal_sku": "SKU-90059"
+  },
+  {
+    "id": "b-1022",
+    "product": {
+      "title": "Nordal OpenShelv 2",
+      "maker": "Nordal"
+    },
+    "pricing": {
+      "amount": "€671,36",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Open bookshelf, 3 tiers, powder-coated steel frame. <b>Nordal</b> quality.</p>",
+    "inventory": {
+      "count": 4
+    },
+    "lead_time_days": 11,
+    "_internal_sku": "SKU-10777"
+  },
+  {
+    "id": "b-1023",
+    "product": {
+      "title": "Vermona ArchivPro 5",
+      "maker": "Vermona"
+    },
+    "pricing": {
+      "amount": "€710,74",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Under-desk pedestal, 160 drawers, anti-tilt mechanism. <b>Vermona</b> quality.</p>",
+    "inventory": {
+      "count": 36
+    },
+    "lead_time_days": 10,
+    "_internal_sku": "SKU-60121"
+  },
+  {
+    "id": "b-1024",
+    "product": {
+      "title": "Deltree ErgoLift 160cm",
+      "maker": "Deltree"
+    },
+    "pricing": {
+      "amount": "on request",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Electric sit-stand desk 120cm, memory controller, anti-collision. <b>Deltree</b> quality.</p>",
+    "inventory": {
+      "count": 31
+    },
+    "lead_time_days": 7,
+    "_internal_sku": "SKU-76275"
+  },
+  {
+    "id": "b-1025",
+    "product": {
+      "title": "Nordal ComfyTask",
+      "maker": "Nordal"
+    },
+    "pricing": {
+      "amount": "€486,33",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Ergonomic task chair, lumbar support, adjustable arms. <b>Nordal</b> quality.</p>",
+    "inventory": {
+      "count": 9
+    },
+    "lead_time_days": 8,
+    "_internal_sku": "SKU-25364"
+  },
+  {
+    "id": "b-1026",
+    "product": {
+      "title": "Kestra ArmReach",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": "€458,30",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Desk-mounted monitor arm, cable management, 2-9kg. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 34
+    },
+    "lead_time_days": 2,
+    "_internal_sku": "SKU-95027"
+  },
+  {
+    "id": "b-1027",
+    "product": {
+      "title": "Deltree GlowBar",
+      "maker": "Deltree"
+    },
+    "pricing": {
+      "amount": "€700,92",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>LED desk lamp, dimmable, 3 color temperatures. <b>Deltree</b> quality.</p>",
+    "inventory": {
+      "count": 5
+    },
+    "lead_time_days": 3,
+    "_internal_sku": "SKU-91704"
+  },
+  {
+    "id": "b-1028",
+    "product": {
+      "title": "Kestra BookCase 3",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": "€391,38",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Open bookshelf, 4 tiers, powder-coated steel frame. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 3
+    },
+    "lead_time_days": 8,
+    "_internal_sku": "SKU-85149"
+  },
+  {
+    "id": "b-1029",
+    "product": {
+      "title": "Kestra DrawerLine 4",
+      "maker": "Kestra"
+    },
+    "pricing": {
+      "amount": "€189,74",
+      "currency": "EUR",
+      "unit": "units"
+    },
+    "desc_html": "<p>Under-desk pedestal, 140 drawers, anti-tilt mechanism. <b>Kestra</b> quality.</p>",
+    "inventory": {
+      "count": 32
+    },
+    "lead_time_days": 4,
+    "_internal_sku": "SKU-17969"
+  }
+]

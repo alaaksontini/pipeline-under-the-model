@@ -1,0 +1,31 @@
+{
+  "name": "pipeline-under-the-model",
+  "version": "0.1.0",
+  "description": "Deterministic ingest -> validate -> orchestrate: the data layer under LLM features. Runs with zero API keys.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "demo": "tsx src/cli.ts demo",
+    "ingest": "tsx src/cli.ts ingest",
+    "validate": "tsx src/cli.ts validate",
+    "report": "tsx src/cli.ts report",
+    "ask": "tsx src/cli.ts ask",
+    "generate": "tsx data/seeds/generate.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "sqlite-vec": "^0.1.6"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.8"
+  }
+}

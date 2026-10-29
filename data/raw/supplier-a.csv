@@ -1,0 +1,42 @@
+item_name,brand,category,cost_usd,stock,tags
+Oskar LiftDesk 140cm,Oskar,standing desk,208.30,23,office;standing-desk
+Oskar PostureFlex,Oskar,desk chair,537.62,13,office;desk-chair
+Kestra FlexMount,Kestra,monitor arm,651.01,27,office;monitor-arm
+Deltree SoftBeam,Deltree,desk lamp,869.10,6,office;desk-lamp
+Kestra ShelfMax 3,Kestra,bookshelf,403.79,22,office;bookshelf
+Oskar DocuStor 5,Oskar,filing cabinet,845.68,0,office;filing-cabinet
+Vermona FlexiRise 120cm,Vermona,standing desk,82.47,36,office;standing-desk
+Kestra SwivelPro,Kestra,desk chair,445.89,33,office;desk-chair
+Deltree ScreenHold,Deltree,monitor arm,271.77,37,office;monitor-arm
+Oskar FocusLite,Oskar,desk lamp,845.67,18,office;desk-lamp
+Kestra StackLine 4,Kestra,bookshelf,293.14,37,office;bookshelf
+Kestra FileSafe 4,Kestra,filing cabinet,534.48,21,office;filing-cabinet
+Vermona StandPro 120cm,Vermona,standing desk,930.44,27,office;standing-desk
+Deltree BackForm,Deltree,desk chair,718.01,29,office;desk-chair
+Deltree ProArm,Deltree,monitor arm,190.81,40,office;monitor-arm
+Kestra LumiTask,Kestra,desk lamp,354.87,27,office;desk-lamp
+Oskar OpenShelv 3,Oskar,bookshelf,374.43,33,office;bookshelf
+Vermona ArchivPro 4,Vermona,filing cabinet,138.59,11,office;filing-cabinet
+Vermona ErgoLift 160cm,Vermona,standing desk,791.80,33,office;standing-desk
+Kestra ComfyTask,Kestra,desk chair,836.50,11,office;desk-chair
+Deltree ArmReach,Deltree,monitor arm,414.33,37,office;monitor-arm
+Kestra GlowBar,Kestra,desk lamp,561.90,15,office;desk-lamp
+Vermona BookCase 5,Vermona,bookshelf,937.83,30,office;bookshelf
+Deltree DrawerLine 4,Deltree,filing cabinet,69.91,31,office;filing-cabinet
+Kestra UpRight 140cm,Kestra,standing desk,140.42,2,office;standing-desk
+Nordal ErgoSit,Nordal,desk chair,301.81,26,office;desk-chair
+Kestra ViewLift,Kestra,monitor arm,758.52,3,office;monitor-arm
+Oskar BrightArc,Oskar,desk lamp,762.30,19,office;desk-lamp
+Vermona TierRack 3,Vermona,bookshelf,817.34,40,office;bookshelf
+Nordal Cabinetix 4,Nordal,filing cabinet,202.98,22,office;filing-cabinet
+Oskar LiftDesk 160cm,Oskar,standing desk,500.61,11,office;standing-desk
+Deltree PostureFlex,Deltree,desk chair,882.80,23,office;desk-chair
+Nordal FlexMount,Nordal,monitor arm,382.54,30,office;monitor-arm
+Vermona SoftBeam,Vermona,desk lamp,660.74,6,office;desk-lamp
+Kestra ShelfMax 2,Kestra,bookshelf,434.20,11,office;bookshelf
+Vermona ScreenHold,Vermona,monitor arm,543.66,4,office;monitor-arm
+Deltree FocusLite,Deltree,desk lamp,888.39,20,office;desk-lamp
+Oskar StackLine 2,Oskar,bookshelf,946.51,9,office;bookshelf
+Oskar LiftDesk 140cm,Oskar,standing desk,208.30,-3,office
+Oskar PostureFlex,Oskar,desk chair,0.00,12,office
+,Kestra,monitor arm,651.01,7,office
